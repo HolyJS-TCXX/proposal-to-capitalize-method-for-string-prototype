@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "proposal-proposal-to-capitalize-method-for-string-prototype",
+  "version": "1.0.0",
+  "description": "ECMAScript toCapitalize() method for String.prototype proposal",
+  "repository": "helenjer/proposal-proposal-to-capitalize-method-for-string-prototype",
+  "author": "Elena Pravdina <hel.jer@ya.ru>",
+  "license": "SEE LICENSE IN https://tc39.github.io/ecma262/#sec-copyright-and-software-license",
+  "homepage": "https://helenjer.github.io/proposal-proposal-to-capitalize-method-for-string-prototype/",
+  "dependencies": {
+    "ecmarkup": "^3.12.0"
+  },
+  "devDependencies": {
+    "@alrra/travis-scripts": "^3.0.0"
+  }
+}
